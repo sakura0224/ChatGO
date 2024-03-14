@@ -1,0 +1,45 @@
+卷 Game 的文件夹 PATH 列表
+卷序列号为 5054-D913
+E:.
+│  manage.py
+│  README.md
+│  tree.txt
+│  
+├─chat
+│  │  admin.py
+│  │  apps.py
+│  │  consumers.py
+│  │  models.py
+│  │  tests.py
+│  │  urls.py
+│  │  views.py
+│  │  __init__.py
+│  │  
+│  ├─migrations
+│  │      __init__.py
+│  │      
+│  ├─templates
+│  │  └─chat
+│  │          index.html
+│  │          room.html
+│  │          
+│  └─__pycache__
+│          admin.cpython-311.pyc
+│          apps.cpython-311.pyc
+│          models.cpython-311.pyc
+│          __init__.cpython-311.pyc
+│          
+└─ChatGO
+    │  asgi.py
+    │  routing.py
+    │  settings.py
+    │  urls.py
+    │  wsgi.py
+    │  __init__.py
+    │  
+    └─__pycache__
+            settings.cpython-311.pyc
+            urls.cpython-311.pyc
+            views.cpython-311.pyc
+            __init__.cpython-311.pyc
+            
